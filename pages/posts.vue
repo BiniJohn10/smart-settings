@@ -2,7 +2,7 @@
   <section class="blog-section">
     <main class="container cursor-pointer">
       <div class="post-list">
-        <article class="post transition-transform duration-500 ease-in-out hover:scale-105" v-for="post in posts" :key="post.id">
+        <article class="post transition-transform duration-500 ease-in-out hover:shadow-md" v-for="post in posts" :key="post.id">
           <NuxtLink :to="post.page" class="post-link">
             <img :src="post.image" :alt="post.title" class="post-image" />
             <div class="post-content">

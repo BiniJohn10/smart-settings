@@ -1,6 +1,6 @@
 <template>
-    <div class="flex justify-between items-center p-8 bg-white border-b border-black">
-    <div class="logo-font font-extrabold text-3xl">SmartSettings</div>
+    <div class="flex justify-between items-center p-8 bg-white">
+    <NuxtLink to="/" class="logo-font font-extrabold text-3xl">SmartSettings</NuxtLink>
     <ul class="flex gap-6">
         <li>
         <NuxtLink

@@ -1,8 +1,8 @@
 <template>
-  <div class="relative w-full h-[400px] overflow-hidden transition-all duration-500 hover:h-[450px]">
+  <div class="relative w-full h-[400px] overflow-hidden">
     <img 
       src="/laptop.png" 
-      class="w-full h-full object-cover block transition-transform duration-500 hover:scale-105" 
+      class="w-full h-full object-cover block" 
     />
     <div class="absolute inset-0 bg-black bg-opacity-30 transition-opacity duration-300"></div>
     <h1 class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-4xl font-bold tracking-wider transition-all duration-500 hover:scale-105">
