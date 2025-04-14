@@ -1,5 +1,5 @@
 <script setup>
-import SmartDevicePage from '~/components/Template.vue'
+import Template from '~/components/Template.vue'
 
 const data = {
   title: 'Protecting Your Privacy: Understanding the Risks of Data Collected by Smart Home Devices.',

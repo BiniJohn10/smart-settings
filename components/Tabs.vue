@@ -18,14 +18,14 @@
             Posts
         </NuxtLink>
         </li>
-        <!-- <li>
+        <li>
         <NuxtLink
-            to="/home-device-settings"
-            :class="linkClass('/home-device-settings')"
+            to="/DeviceSettings"
+            :class="linkClass('/DeviceSettings')"
         >
-            Home Device Settings
+            Smart Devices
         </NuxtLink>
-        </li> -->
+        </li>
     </ul>
     </div>
 </template>

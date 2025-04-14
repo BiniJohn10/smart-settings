@@ -1,5 +1,5 @@
 <script setup>
-import SmartDevicePage from '~/components/Template.vue'
+import Template from '~/components/Template.vue'
 
 const data = {
   title: 'Smart Hub',
@@ -28,7 +28,19 @@ const data = {
         { title: 'Removing members from a location (room)', description: 'Home → Manage Location → Select Desired location → Members → More Options → Remove members → Select members to be removed → Tap Remove → Confirm by selecting Remove again.' },
         { title: 'Disable geolocation access (if not used often)', description: 'Home → Manage Location → Geolocation → Toggle Off.' },
       ]
-    }
+    },
+    {
+    title: 'Google Nest Hub',
+    subtitle: 'Google Nest Hub is a smart display that allows you to control your smart home devices and access Google Assistant. Here are some privacy and security settings to consider:',
+    image: '/google-nest-hub.png',
+    points: [
+      { title: 'Disable Active Listening', description: 'Use the Mic Off switch on the device (usually on the back near the power cord).' },
+      { title: 'Opt-Out of Data Sharing', description: 'Google Home app → Account → Manage your Google Account → Data & personalization → Turn off Voice and Audio Activity.' },
+      { title: 'Delete Voice History', description: 'Google Home app → Your Activity → Delete recordings manually or by date. Or say: “Hey Google, delete what I said last week.”' },
+      { title: 'Auto-Delete Voice Data', description: 'Google Home app → My Activity → Auto-delete → Choose 3, 18, or 36 months for automatic deletion.' },
+      { title: 'Train Voice Match', description: 'Google Home app → Settings → Voice Match → Set up Voice Match and follow prompts. Repeat for each user.' },
+    ]
+  }
   ]
 }
 </script>

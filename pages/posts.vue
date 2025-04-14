@@ -30,28 +30,28 @@ const posts = [
     title: 'Smart Hub',
     excerpt: 'A smart hub is a central device that connects and controls various smart home devices...',
     image: 'smart-hub.png',
-    page:'/smart-hub',
+    page:'/Hub',
   },
   {
     id: 3,
     title: 'Smart Streaming devices',
     excerpt: 'Smart streaming devices are devices that allow you to stream movies, TV shows, and other content directly to your TV...',
     image: 'streaming.jpg',
-    page:'/smart-streaming',
+    page:'/Streaming',
   },
   {
     id: 4,
     title: 'Smart TVs',
     excerpt: 'Smart TVs are internet-connected televisions that offer a range of features and capabilities, such as streaming services...',
     image: 'smart-tv.png',
-    page:'/smart-tv',
+    page:'/Tv',
   },
   {
     id: 5,
     title: 'Smart Speakers',
     excerpt: 'Smart speakers, such as Amazon Echo, Apple HomePod, Google Nest, and other similar devices, are voice-activated devices...',
     image: 'smart-speakers.png',
-    page:'/smart-speaker',
+    page:'/Speaker',
   },
 
 ];
