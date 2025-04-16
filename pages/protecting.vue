@@ -4,7 +4,7 @@ import Template from '~/components/Template.vue'
 const data = {
   title: 'Protecting Your Privacy: Understanding the Risks of Data Collected by Smart Home Devices.',
   author: 'BiniJohn',
-  date: 'May 12, 2023',
+  date: 'April 12, 2025',
   readTime: '2 min read',
   mainImage: '/lock.png',
 }

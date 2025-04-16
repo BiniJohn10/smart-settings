@@ -4,7 +4,7 @@ import Template from '~/components/Template.vue'
 const data = {
   title: 'Smart Hub',
   author: 'BiniJohn',
-  date: 'May 12, 2023',
+  date: 'Jan 2, 2025',
   readTime: '1 min read',
   description: 'A smart hub is a central device that connects and controls various smart home devices. It acts as a bridge between the internet and your smart home devices, allowing you to control them from a single interface.',
   mainImage: '/smart-hub.png',
