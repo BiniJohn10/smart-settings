@@ -19,14 +19,14 @@
 
     <div class="flex flex-col col-span-2 justify-center p-8 space-y-4">
         <div class="space-y-4 px-4">
-          <h2 class="text-2xl font-semibold">Welcome to SmartSettings — I’m so glad you’re here!</h2>
+          <h2 class="text-2xl font-semibold">Welcome to SmartSettings - I’m so glad you’re here!</h2>
 
           <p>
             In today’s digital world, privacy and security are more important than ever. My goal is to help you take control of your digital life by showing you how to protect your personal information and optimize your smart device settings with confidence.
           </p>
 
           <p>
-            As you explore the site, you’ll find clear, step-by-step guides on everything from enabling two-factor authentication and creating strong passwords, to managing app permissions and configuring privacy settings — all explained in simple, easy-to-follow language.
+            As you explore the site, you’ll find clear, step-by-step guides on everything from enabling two-factor authentication and creating strong passwords, to managing app permissions and configuring privacy settings - all explained in simple, easy-to-follow language.
           </p>
 
           <p>
@@ -34,7 +34,7 @@
           </p>
 
           <p>
-            Thank you for visiting, and I hope this becomes your go-to resource for all things privacy and security. Stay empowered — and stay safe online!
+            Thank you for visiting, and I hope this becomes your go-to resource for all things privacy and security. Stay empowered - and stay safe online!
           </p>
         </div>
     </div>
