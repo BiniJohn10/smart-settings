@@ -18,7 +18,7 @@
         <div v-for="(point, index) in section.points" :key="index" class="mb-2">
         <details class="p-3 rounded cursor-pointer group">
             <summary class="font-bold italic text-base flex items-center gap-2 list-none">
-                <img src="public/arrow.svg" class="text-black w-4 h-4 transition-transform group-open:rotate-90">
+                <img src="/arrow.svg" class="text-black w-4 h-4 transition-transform group-open:rotate-90">
                 {{ point.title }}
             </summary>
             <div class="mt-2 pl-6 text-sm" v-html="point.description"></div>

@@ -19,7 +19,7 @@ const data = {
             <h1 class="text-3xl font-bold">{{ data.title }}</h1>
             <p class="text-sm text-gray-500">{{ data.author }} · {{ data.date }} · {{ data.readTime }}</p>
             <div class="flex flex-col md:flex-row items-center">
-                <img src='public/lock.png' alt="Main Image" class="rounded-lg post-image" />
+                <img src='/lock.png' alt="Main Image" class="rounded-lg post-image" />
                 <p class="ml-4 pt-6 md:ml-4">
                     As the use of smart home devices continues to grow, it is important to understand the data that these devices collect and how it can be exploited by cybercriminals. Smart home devices such as smart TVs, speakers, thermostats, hubs, and security systems can collect a wide range of data, including location data, viewing habits, contacts, app usage, voice commands, calendar events, identifiable personal information, login details, etc., of connected devices. <br><br>
                 </p>
